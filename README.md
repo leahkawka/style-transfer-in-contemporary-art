@@ -3,6 +3,8 @@ Report for Seminar "Creating Art(efacts)" WiSe 24/25, Department of CVML @ LMU M
 # **Style Transfer**  
 ### **Bridging Art, Culture and Technology**
 
+[read pdf online](https://leahkawka.github.io/style-transfer-in-contemporary-art/)
+
 ---
 
 ## 🎯 Research Question
@@ -20,3 +22,5 @@ It defines key style features and explores the evolution of techniques, from ear
 It also examines the societal impact and ethical challenges associated with this technology. A particular focus is given to visual artifacts as stylistic elements in _contemporary art_, analyzing their role in cultural reinterpretation and their influence on identifying a new style in artworks.
 
 Finally, the report discusses future directions, highlighting emerging trends in style transfer research, and the broader implications of computer vision-driven artistic generation. The conclusions underline the increasing relevance of style transfer as a tool for creative expression and cultural preservation.
+
+[read pdf online](https://leahkawka.github.io/style-transfer-in-contemporary-art/)
