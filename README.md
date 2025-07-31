@@ -7,13 +7,13 @@ Report for Seminar "Creating Art(efacts)" WiSe 24/25, Department of CVML @ LMU M
 
 ---
 
-## 🎯 Research Question
+## 🖍️ Research Question
 
 **In the ever-evolving dialogue between code and artistic creation, what role does the technology _Style Transfer_ hold in contemporary Culture and Art?**
 
 ---
 
-## 🧠 Abstract
+## 🗞️ Abstract
 
 _Style transfer_ is a transformative technique in computer vision that merges artistic styles with digital image content, bridging the gap between art, culture, and technology. This report provides a comprehensive examination of style transfer, starting with its conceptual foundations and historical intersections with art.
 
