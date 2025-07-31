@@ -24,3 +24,16 @@ It also examines the societal impact and ethical challenges associated with this
 Finally, the report discusses future directions, highlighting emerging trends in style transfer research, and the broader implications of computer vision-driven artistic generation. The conclusions underline the increasing relevance of style transfer as a tool for creative expression and cultural preservation.
 
 [read pdf online](https://leahkawka.github.io/style-transfer-in-contemporary-art/)
+
+BibTeX:
+```bibtex
+@misc{style_transfer_contemporary_art_2025,
+  title        = {Report on Style Transfer in Contemporary Art},
+  author       = {Leah Kawka},
+  year         = {2025},
+  month        = {7},
+  version      = {v1.0.0},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16633948},
+  url          = {https://doi.org/10.5281/zenodo.16633948}
+}
